@@ -201,8 +201,8 @@ The results indicate that **LightGBM provides the highest accuracy**, making it 
 ---
 
 ## 📌 Get in Touch
-📧 pranavsharma1395@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/pranav-sharma-180895120)  
 🔗 [GitHub]([https://github.com/user/ShopperLens](https://github.com/Pranavsharma13))  
 
-🚀 *"Optimizing E-Commerce with AI-Powered Personalized Recommendations!"*
+💬 *"Errors using inadequate data are much less than those using no data at all." - Charles Babbage"* 🚗💨
+![ThanksNote_page-0001](https://github.com/user-attachments/assets/0b732265-16b7-4201-979c-c4a2fe6f2574)
